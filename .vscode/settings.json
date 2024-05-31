@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "unordered_map": "c",
+        "__hash_table": "c"
+    }
+}
