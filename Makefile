@@ -1,4 +1,4 @@
-MAIN = main
+MAIN = part2
 PARSER = minic
 BUILDER = ir_builder
 
